@@ -43,9 +43,9 @@ jobs:
       id: meta
       uses: docker/metadata-action@v5
       with:
-        images: |
-          alireza7/s-ui
-          ghcr.io/alireza0/s-ui
+        registry: ghcr.io
+        username: ${{ github.actor }}
+        password: ${{ secrets.GITHUB_TOKEN }}
         tags: |
           type=ref,event=branch
           type=ref,event=tag
