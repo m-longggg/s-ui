@@ -209,12 +209,12 @@ To run backend (from root folder of repository):
    /app/db
 ```
 
-   **Step 2:** 默认端口
+   **Step 3:** 默认端口
 ```shell
    2095
 ```
 </details>
-## Languages
+-Languages
 
 - English
 - Farsi
