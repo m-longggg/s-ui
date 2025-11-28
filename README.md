@@ -195,7 +195,7 @@ To run backend (from root folder of repository):
 
 </details>
 
-## Containerized Deployment
+## Sealos/clawcloud Containerized Deployment
 <details>
    <summary>Click for details</summary>
    
