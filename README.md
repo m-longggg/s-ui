@@ -194,7 +194,22 @@ To run backend (from root folder of repository):
 ```
 
 </details>
-
+## Containerized Deployment
+<details>
+   <summary>Click for details</summary>
+   **Step 1:** ### 部署命令
+```
+   ghcr.io/alireza0/s-ui:v1.3.7
+```
+   **Step 2:** ### 挂载
+```
+   /app/db
+```
+   **Step 2:** ### 默认端口
+```
+   2095
+```
+</details>
 ## Languages
 
 - English
