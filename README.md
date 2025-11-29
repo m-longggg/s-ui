@@ -206,12 +206,12 @@ To run backend (from root folder of repository):
 
    **Step 2:** 挂载
 ```shell
-   /app/db
+/app/db
 ```
 
    **Step 3:** 默认端口
 ```shell
-   2095
+2095
 ```
 </details>
 -Languages
