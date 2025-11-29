@@ -201,7 +201,7 @@ To run backend (from root folder of repository):
    
    **Step 1:** 部署命令
 ```shell
-   ghcr.io/alireza0/s-ui:v1.3.7
+ghcr.io/alireza0/s-ui:v1.3.7
 ```
 
    **Step 2:** 挂载
